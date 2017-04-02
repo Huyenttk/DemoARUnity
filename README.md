@@ -26,7 +26,9 @@ Mục tiêu của bài này là tạo 1 project AR Unity nhận dạng bar code 
 8. Run và thấy kết kết quả barcode được nhận dạng thành hình con nhện nhảy 
 
 =================================================
+
 Bài 2 AR_02
+
 =================================================
 
 Mục tiêu hôm nay: Tao nút trên màn hình, tao hành vi cho các nút đó
@@ -43,4 +45,5 @@ Mục tiêu hôm nay: Tao nút trên màn hình, tao hành vi cho các nút đó
 7. Chọn Walk/ Inspector/ Onclick() , add Walk cho sự kiện Onclick 
 8. Run thử 
 9. Đieu chinh chuyen từ run thành walk, sao cho tgian Idle là ít
+
 =================================================
