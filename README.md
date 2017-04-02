@@ -25,8 +25,8 @@ Mục tiêu của bài này là tạo 1 project AR Unity nhận dạng bar code 
      + kéo jum_AnimationControler vào muc Controller
 8. Run và thấy kết kết quả barcode được nhận dạng thành hình con nhện nhảy 
 
-Bài 2 AR_0
-
+=================================================
+Bài 2 AR_02
 =================================================
 
 Mục tiêu hôm nay: Tao nút trên màn hình, tao hành vi cho các nút đó
